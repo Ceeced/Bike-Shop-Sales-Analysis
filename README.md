@@ -39,9 +39,9 @@ The dashboard covers the following areas:
 
 ## Dashboard
 
-[**Open the interactive Power BI report**](https://app.powerbi.com/view?r=eyJrIjoiMGM2OGFhNTQtZDFlMi00NTQ5LWJiNGQtZjhkYTg0MzZjMzRkIiwidCI6Ijk3NDdjNzczLTkyM2QtNGNjMi04MGRiLTEzNGI0MGExZDgxYiJ9)
+[**Open the interactive Power BI report**](https://app.powerbi.com/view?r=eyJrIjoiYTFmNzI1ZmEtMjIwNy00ODliLWJkMzgtZTIzOTZkYmRkODdhIiwidCI6Ijk3NDdjNzczLTkyM2QtNGNjMi04MGRiLTEzNGI0MGExZDgxYiJ9)
 
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](Screenshots/dashboard.png)
 
 The report includes several views for analysing business performance:
 
