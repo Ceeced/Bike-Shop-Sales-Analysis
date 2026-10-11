@@ -1,6 +1,6 @@
 # AdventureWorks Sales Analysis
 
-[Power BI Dashboard]([screenshots/dashboard.png](https://app.powerbi.com/view?r=eyJrIjoiMGM2OGFhNTQtZDFlMi00NTQ5LWJiNGQtZjhkYTg0MzZjMzRkIiwidCI6Ijk3NDdjNzczLTkyM2QtNGNjMi04MGRiLTEzNGI0MGExZDgxYiJ9))
+[Power BI Dashboard Interactive]([Screenshots/dashboard_interactive.png])
 
 An interactive business intelligence dashboard built with Power BI to analyse sales performance, profitability, customers, products and returns using the AdventureWorks sample dataset.
 
