@@ -40,8 +40,8 @@ The dashboard covers the following areas:
 [**Open the interactive Power BI report**](https://app.powerbi.com/view?r=eyJrIjoiYTFmNzI1ZmEtMjIwNy00ODliLWJkMzgtZTIzOTZkYmRkODdhIiwidCI6Ijk3NDdjNzczLTkyM2QtNGNjMi04MGRiLTEzNGI0MGExZDgxYiJ9)
 
 ![Power BI Dashboard](Screenshots/dashboard.png)
-![Power BI Product Overview](Screenshots/product_overview.jpg)
-![Power BI Customer Overview](Screenshots/customer_overview.jpg)
+![Power BI Product Overview](Screenshots/product_overview.png)
+![Power BI Customer Overview](Screenshots/customer_overview.png)
 
 The report includes several views for analysing business performance:
 
